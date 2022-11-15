@@ -1102,8 +1102,10 @@ canvas {
 }
 
 .st-hero-social-links .st-social-btn:hover {
-  border-color: rgba(255, 255, 255, 0.6);
-  color: rgba(255, 255, 255, 0.9);
+  /* border-color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.9); */
+  border-color: #fec544;
+  color: #fec544;
 }
 
 #background-wrap {
